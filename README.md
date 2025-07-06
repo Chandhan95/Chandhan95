@@ -231,7 +231,7 @@ class AIWizard:
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/sai-chandhan">
+  <a href="https://www.linkedin.com/in/saichandhan/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Chandhan95">

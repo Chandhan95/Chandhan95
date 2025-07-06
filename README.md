@@ -1,8 +1,9 @@
 # <div align="center">🚀 **Sai Chandhan Ganji** 🚀</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=700&height=120&lines=AI+%26+ML+Enthusiast+🧙‍♂️;Python+Developer+💻;Problem+Solving+Champion+🏆;Building+AI+Solutions+🚀" alt="Typing SVG" />
+ <p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=700&height=120&lines=AI+%26+ML+Enthusiast+🧙‍♂️;Python+Developer+💻;Problem+Solving+Champion+🏆;Building+AI+Solutions+🚀" alt="Typing SVG" />
 </div>
+</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Chandhan95&label=Profile%20views&color=ff6b6b&style=for-the-badge" alt="Profile views" />

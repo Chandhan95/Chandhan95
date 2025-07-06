@@ -53,19 +53,18 @@ class AIWizard:
 ## 💪 **LeetCode Journey - The Problem Slayer**
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Chandhan95?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Chandhan95?theme=dark&font=Karma" alt="LeetCode Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="LeetCode" width="200"/>
-  <br>
+  <h3>🔥 LeetCode Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandhan95&bg_color=0D1117&color=FFFFFF&line=FF6B6B&point=4CAF50&area=true&hide_border=true&title_color=FF6B6B&custom_title=LeetCode%20Journey" alt="LeetCode Activity Graph"/>
+</div>
+
+<div align="center">
   <a href="https://leetcode.com/u/Chandhan95/">
     <img src="https://img.shields.io/badge/Visit%20My%20Profile-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Chandhan95&theme=dark" alt="LeetCode Heatmap"/>
 </div>
 
 <div align="center">
@@ -260,7 +259,7 @@ class AIWizard:
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Let's+collaborate+on+exciting+projects!;🚀+Building+the+future%2C+one+line+at+a+time!" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Let's+collaborate+on+exciting+projects!;🚀+Building+the+future%2C+one+line+at+a+time!" alt="Footer Typing SVG" />
 </div>
 
 <div align="center">

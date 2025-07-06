@@ -1,7 +1,7 @@
 # <div align="center">🚀 **Sai Chandhan Ganji** 🚀</div>
 
 <div align="center">
- <p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=700&height=120&lines=AI+%26+ML+Enthusiast+🧙‍♂️;Python+Developer+💻;Problem+Solving+Champion+🏆;Building+AI+Solutions+🚀" alt="Typing SVG" />
+ <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=700&height=120&lines=AI+%26+ML+Enthusiast+🧙‍♂️;Python+Developer+💻;Problem+Solving+Champion+🏆;Building+AI+Solutions+🚀" alt="Typing SVG" />
 </div>
 </p>
 

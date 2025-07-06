@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=700&height=120&lines=AI+%26+ML+Enthusiast+🧙‍♂️;Python+Developer+💻;Problem+Solving+Champion+🏆;Building+AI+Solutions+🚀" alt="Typing SVG" />
-
 </div>
 
 <div align="center">
@@ -37,7 +36,7 @@ class AIWizard:
         return {
             "🐍 Languages": ["Python", "Java", "JavaScript", "HTML", "CSS", "SQL"],
             "🔧 Frameworks": ["Flask", "React (Learning)", "Node.js (Learning)"],
-            "🤖 AI/ML Arsenal": ["Scikit-learn", "TensorFlow", "Pandas", "NumPy", "OpenCV"],
+            "🤖 AI/ML": ["Scikit-learn", "TensorFlow", "Pandas", "NumPy", "OpenCV"],
             "💾 Databases": ["MySQL", "SQLite", "MongoDB (Learning)"],
             "☁️ Cloud & DevOps": ["AWS", "Git", "GitHub"]
         }
@@ -58,6 +57,9 @@ class AIWizard:
 </div>
 
 <div align="center">
+  <img src="https://leetcode-heatmap-v2.vercel.app/api?username=Chandhan95&theme=dark" alt="LeetCode Heatmap"/>
+</div>
+
 <div align="center">
   <table>
     <tr>
@@ -74,30 +76,12 @@ class AIWizard:
         <br><strong>🏆 Contest Rating</strong>
       </td>
     </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Easy-In%20Progress-green?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-        <br><strong>✅ Easy Problems</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Medium-Challenge%20Accepted-yellow?style=for-the-badge&logo=lichess&logoColor=white"/>
-        <br><strong>⚡ Medium Problems</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Hard-Next%20Level-red?style=for-the-badge&logo=redis&logoColor=white"/>
-        <br><strong>🔥 Hard Problems</strong>
-      </td>
-    </tr>
   </table>
-</div>
-
-<div align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Chandhan95&theme=dark" alt="LeetCode Badges"/>
 </div>
 
 ---
 
-## 🌟 **Epic Project Adventures**
+## 🌟 **Featured Projects**
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
@@ -136,7 +120,7 @@ class AIWizard:
 
 ---
 
-## 🚀 **Professional Battle Victories**
+## 🚀 **Professional Experience**
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Experience%20Highlights&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
@@ -172,52 +156,15 @@ class AIWizard:
 
 ---
 
-## 🛠️ **Arsenal of Technologies**
+## 🛠️ **Tech Stack**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,flask,react,nodejs,mysql,mongodb,aws,docker,git,github,tensorflow,opencv,linux,vscode&perline=10" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header"/>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Python-Master-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <br><strong>🐍 Primary Language</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/C%2B%2B-Power%20User-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-        <br><strong>⚡ Performance Beast</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-        <br><strong>☕ OOP Champion</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/AI/ML-Expert-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-        <br><strong>🤖 AI Specialist</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Web%20Dev-Full%20Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-        <br><strong>🌐 Frontend + Backend</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Cloud-AWS%20Certified-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-        <br><strong>☁️ Cloud Computing</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
-## 📊 **GitHub Universe Stats**
+## 📊 **GitHub Stats**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chandhan95&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4CAF50" height="200"/>
@@ -234,7 +181,7 @@ class AIWizard:
 
 ---
 
-## 🏆 **Trophy Cabinet**
+## 🏆 **Achievements**
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Chandhan95&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
@@ -242,38 +189,36 @@ class AIWizard:
 
 ---
 
-## 🎓 **Academic & Certification Arsenal**
+## 🎓 **Education & Certifications**
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🎓%20B.Tech%20CSE-SRM%20University-blue?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/CGPA-8.42-gold?style=for-the-badge&logo=star&logoColor=white"/>
+        <br><strong>Oct 2022 - Present</strong>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/☁️%20AWS%20Certified-Naresh%20IT-orange?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=check-circle&logoColor=white"/>
+        <br><strong>Jun 2024 - Aug 2024</strong>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🐍%20Python%20Expert-NPTEL-green?style=for-the-badge&logo=python&logoColor=white"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Platform-Swayam-blue?style=for-the-badge&logo=academic-cap&logoColor=white"/>
+        <br><strong>Jul 2023 - Oct 2023</strong>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🎓%20B.Tech%20CSE-SRM%20University-blue?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-      <br><br>
-      <img src="https://img.shields.io/badge/CGPA-8.42-gold?style=for-the-badge&logo=star&logoColor=white"/>
-      <br><strong>Oct 2022 - Present</strong>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/☁️%20AWS%20Certified-Naresh%20IT-orange?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-      <br><br>
-      <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=check-circle&logoColor=white"/>
-      <br><strong>Jun 2024 - Aug 2024</strong>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🐍%20Python%20Expert-NPTEL-green?style=for-the-badge&logo=python&logoColor=white"/>
-      <br><br>
-      <img src="https://img.shields.io/badge/Platform-Swayam-blue?style=for-the-badge&logo=academic-cap&logoColor=white"/>
-      <br><strong>Jul 2023 - Oct 2023</strong>
-    </td>
-  </tr>
-</table>
 
 ---
 
-## 🌐 **Connect & Collaborate**
+## 🌐 **Connect With Me**
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Let's%20Build%20Something%20Amazing!&fontSize=24&fontColor=ffffff&animation=twinkling"/>
@@ -281,22 +226,22 @@ class AIWizard:
 
 <div align="center">
   <a href="https://linkedin.com/in/sai-chandhan">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Chandhan95">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20my%20journey-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow%20my%20journey-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/Chandhan95">
-    <img src="https://img.shields.io/badge/LeetCode-Solve%20together-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116"/>
+    <img src="https://img.shields.io/badge/LeetCode-Solve%20together-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </div>
 
 <div align="center">
   <a href="mailto:saichandhan_ganji@srmap.edu.in">
-    <img src="https://img.shields.io/badge/Email-Let's%20discuss%20ideas-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+    <img src="https://img.shields.io/badge/Email-Let's%20discuss%20ideas-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="tel:+919515580598">
-    <img src="https://img.shields.io/badge/Phone-Quick%20chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366"/>
+    <img src="https://img.shields.io/badge/Phone-Quick%20chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </div>
 

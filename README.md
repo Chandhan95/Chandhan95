@@ -1,7 +1,7 @@
 # <div align="center">🚀 **Sai Chandhan Ganji** 🚀</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=700&height=120&lines=AI+%26+ML+Wizard+🧙‍♂️;Full+Stack+Developer+💻;Problem+Solving+Champion+🏆;Building+the+Future+with+Code+🌟" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=700&height=120&lines=AI+%26+ML+Enthusiast+🧙‍♂️;Python+Developer+💻;Problem+Solving+Champion+🏆;Building+AI+Solutions+🚀" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -34,11 +34,11 @@ class AIWizard:
         
     def get_superpowers(self):
         return {
-            "🐍 Languages": ["Python", "Java", "C++", "JavaScript", "HTML", "CSS", "SQL"],
-            "🔧 Frameworks": ["Flask", "React", "Node.js", "Express"],
+            "🐍 Languages": ["Python", "Java", "JavaScript", "HTML", "CSS", "SQL"],
+            "🔧 Frameworks": ["Flask", "React (Learning)", "Node.js (Learning)"],
             "🤖 AI/ML Arsenal": ["Scikit-learn", "TensorFlow", "Pandas", "NumPy", "OpenCV"],
-            "💾 Databases": ["MySQL", "SQLite", "MongoDB", "PostgreSQL"],
-            "☁️ Cloud & DevOps": ["AWS", "Docker", "Git", "GitHub Actions"]
+            "💾 Databases": ["MySQL", "SQLite", "MongoDB (Learning)"],
+            "☁️ Cloud & DevOps": ["AWS", "Git", "GitHub"]
         }
     
     def current_mission(self):

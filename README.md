@@ -57,7 +57,15 @@ class AIWizard:
 </div>
 
 <div align="center">
-  <img src="https://leetcode-heatmap-v2.vercel.app/api?username=Chandhan95&theme=dark" alt="LeetCode Heatmap"/>
+  <img src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="LeetCode" width="200"/>
+  <br>
+  <a href="https://leetcode.com/u/Chandhan95/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Profile-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=Chandhan95&theme=dark" alt="LeetCode Heatmap"/>
 </div>
 
 <div align="center">

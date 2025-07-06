@@ -53,36 +53,17 @@ class AIWizard:
 ## 💪 **LeetCode Journey - The Problem Slayer**
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Chandhan95?theme=dark&font=Karma" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Chandhan95?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Problems%20Solved-Check%20Profile-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white"/>
-        <br><strong>🧩 Total Problems</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Current%20Streak-Building%20Up-orange?style=for-the-badge&logo=fire&logoColor=white"/>
-        <br><strong>🔥 Daily Streak</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Contest%20Rating-Growing%20Strong-blue?style=for-the-badge&logo=leetcode&logoColor=white"/>
-        <br><strong>🏆 Contest Rating</strong>
-      </td>
-    </tr>
-  </table>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Chandhan95&theme=dark" alt="LeetCode Badges"/>
 </div>
 
 <div align="center">
   <a href="https://leetcode.com/u/Chandhan95/">
-    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visit%20My%20Profile-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
 </div>
 
 <div align="center">

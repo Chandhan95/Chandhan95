@@ -29,12 +29,12 @@ class AIWizard:
         self.location = "Mangalagiri, Andhra Pradesh 🌍"
         self.education = "B.Tech CSE @ SRM University ⭐ 8.42 CGPA"
         self.passion = ["Machine Learning 🤖", "Generative AI 🧠", "Problem Solving 🧩"]
-        self.current_quest = ["Advanced Java ☕", "LangChain 🔗", "AI Innovation 🚀"]
+        self.current_quest = ["Java ☕", "C++ 🚀", "LangChain 🔗", "AI Innovation 🤖"]
         self.motto = "Code with Purpose, Build with Passion! 💫"
         
     def get_superpowers(self):
         return {
-            "🐍 Languages": ["Python", "Java", "JavaScript", "HTML", "CSS", "SQL"],
+            "🐍 Languages": ["Python", "Java", "C++", "JavaScript", "HTML", "CSS", "SQL"],
             "🔧 Frameworks": ["Flask", "React", "Node.js", "Express"],
             "🤖 AI/ML Arsenal": ["Scikit-learn", "TensorFlow", "Pandas", "NumPy", "OpenCV"],
             "💾 Databases": ["MySQL", "SQLite", "MongoDB", "PostgreSQL"],
@@ -57,32 +57,33 @@ class AIWizard:
 </div>
 
 <div align="center">
+<div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Problems%20Solved-500+-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Problems%20Solved-Coming%20Soon-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white"/>
         <br><strong>🧩 Total Problems</strong>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Current%20Streak-15%20Days-orange?style=for-the-badge&logo=fire&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Current%20Streak-Building%20Up-orange?style=for-the-badge&logo=fire&logoColor=white"/>
         <br><strong>🔥 Daily Streak</strong>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Contest%20Rating-1650+-blue?style=for-the-badge&logo=leetcode&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Contest%20Rating-Growing%20Strong-blue?style=for-the-badge&logo=leetcode&logoColor=white"/>
         <br><strong>🏆 Contest Rating</strong>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Easy-200+-green?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Easy-In%20Progress-green?style=for-the-badge&logo=checkmarx&logoColor=white"/>
         <br><strong>✅ Easy Problems</strong>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Medium-250+-yellow?style=for-the-badge&logo=lichess&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Medium-Challenge%20Accepted-yellow?style=for-the-badge&logo=lichess&logoColor=white"/>
         <br><strong>⚡ Medium Problems</strong>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Hard-50+-red?style=for-the-badge&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Hard-Next%20Level-red?style=for-the-badge&logo=redis&logoColor=white"/>
         <br><strong>🔥 Hard Problems</strong>
       </td>
     </tr>
@@ -173,7 +174,11 @@ class AIWizard:
 ## 🛠️ **Arsenal of Technologies**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,react,nodejs,mysql,mongodb,aws,docker,git,github,tensorflow,opencv,linux,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,flask,react,nodejs,mysql,mongodb,aws,docker,git,github,tensorflow,opencv,linux,vscode&perline=10" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header"/>
 </div>
 
 <div align="center">
@@ -184,8 +189,18 @@ class AIWizard:
         <br><strong>🐍 Primary Language</strong>
       </td>
       <td align="center">
+        <img src="https://img.shields.io/badge/C%2B%2B-Power%20User-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+        <br><strong>⚡ Performance Beast</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+        <br><strong>☕ OOP Champion</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
         <img src="https://img.shields.io/badge/AI/ML-Expert-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-        <br><strong>🤖 Specialty</strong>
+        <br><strong>🤖 AI Specialist</strong>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Web%20Dev-Full%20Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>

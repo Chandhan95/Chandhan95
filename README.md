@@ -57,14 +57,32 @@ class AIWizard:
 </div>
 
 <div align="center">
-  <h3>🔥 LeetCode Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandhan95&bg_color=0D1117&color=FFFFFF&line=FF6B6B&point=4CAF50&area=true&hide_border=true&title_color=FF6B6B&custom_title=LeetCode%20Journey" alt="LeetCode Activity Graph"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Problems%20Solved-Check%20Profile-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white"/>
+        <br><strong>🧩 Total Problems</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Current%20Streak-Building%20Up-orange?style=for-the-badge&logo=fire&logoColor=white"/>
+        <br><strong>🔥 Daily Streak</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Contest%20Rating-Growing%20Strong-blue?style=for-the-badge&logo=leetcode&logoColor=white"/>
+        <br><strong>🏆 Contest Rating</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
   <a href="https://leetcode.com/u/Chandhan95/">
-    <img src="https://img.shields.io/badge/Visit%20My%20Profile-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
 </div>
 
 <div align="center">

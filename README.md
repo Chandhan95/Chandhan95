@@ -96,7 +96,7 @@ class AIWizard:
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <h3>🏥 **AI Healthcare Revolution**</h3>
+      <h3>🏥 **Health Care appointment system with medical chatbot**</h3>
       <img src="https://img.shields.io/badge/Status-Live%20%26%20Thriving-brightgreen?style=for-the-badge&logo=rocket"/>
       <br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -109,7 +109,7 @@ class AIWizard:
       📱 **Responsive & intuitive UI**
     </td>
     <td width="50%" align="center">
-      <h3>❤️ **Heart Disease Oracle**</h3>
+      <h3>❤️ **Heart Disease Prediction</h3>
       <img src="https://img.shields.io/badge/Accuracy-97.33%25-gold?style=for-the-badge&logo=target"/>
       <br><br>
       <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>

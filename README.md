@@ -162,13 +162,7 @@ class AIWizard:
 
 ---
 
-## 🛠️ **Tech Stack**
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,flask,react,nodejs,mysql,mongodb,aws,docker,git,github,tensorflow,opencv,linux,vscode&perline=10" />
-</div>
-
----
 
 ## 📊 **GitHub Stats**
 
